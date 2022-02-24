@@ -325,7 +325,7 @@ public class spainishConjurgator {
 
 		JMenuBar menuBar = new JMenuBar();
 		frame.setJMenuBar(menuBar);
-
+		//
 		JCheckBoxMenuItem preteriteChcBx = new JCheckBoxMenuItem("Preterite");
 		preteriteChcBx.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent arg0) {
